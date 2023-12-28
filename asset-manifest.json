@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.e8c3feca.css",
+    "main.js": "/Portfolio-Website/static/js/main.2845d275.js",
+    "static/js/787.b80100c1.chunk.js": "/Portfolio-Website/static/js/787.b80100c1.chunk.js",
+    "static/media/About1.jpg": "/Portfolio-Website/static/media/About1.44e2314906edd9d4a01a.jpg",
+    "static/media/Daawat Restaurant.png": "/Portfolio-Website/static/media/Daawat Restaurant.44800e1002a0948a81ec.png",
+    "static/media/Contact.jpg": "/Portfolio-Website/static/media/Contact.9921a8ab5044cf6682f9.jpg",
+    "static/media/VishalMegaMart.png": "/Portfolio-Website/static/media/VishalMegaMart.88d4b21ea09bafa8a952.png",
+    "static/media/Shopping.png": "/Portfolio-Website/static/media/Shopping.7f17197100e82b8715e6.png",
+    "static/media/Taj Studio.png": "/Portfolio-Website/static/media/Taj Studio.01606aca1ddddecf7cda.png",
+    "static/media/W3 School.png": "/Portfolio-Website/static/media/W3 School.eb2e43102a13dd5b1887.png",
+    "static/media/Portfolio4.png": "/Portfolio-Website/static/media/Portfolio4.3375392aff50d3019615.png",
+    "static/media/Portfolio1.png": "/Portfolio-Website/static/media/Portfolio1.ba921e576d765ac1f423.png",
+    "static/media/Calculator.png": "/Portfolio-Website/static/media/Calculator.9b00a21f9bc80005dbfc.png",
+    "static/media/Web Guruz.png": "/Portfolio-Website/static/media/Web Guruz.6a306a6a689f37077833.png",
+    "static/media/Digital Clock.png": "/Portfolio-Website/static/media/Digital Clock.fcbe693d09c5d8ea8b96.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.e8c3feca.css.map": "/Portfolio-Website/static/css/main.e8c3feca.css.map",
+    "main.2845d275.js.map": "/Portfolio-Website/static/js/main.2845d275.js.map",
+    "787.b80100c1.chunk.js.map": "/Portfolio-Website/static/js/787.b80100c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c3feca.css",
+    "static/js/main.2845d275.js"
+  ]
+}
